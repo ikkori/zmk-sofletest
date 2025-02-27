@@ -254,8 +254,8 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:transfer$$', type: trans}
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-control$$
   - layer1
   - {t: LAYER0, h: toggle}
